@@ -1,22 +1,21 @@
-Melyik dokumentum határozza meg Magyarország alapvető politikai és jogi rendjét?;Alkotmányt;
-Mi Magyarország államformája?;Az államforma köztársaság;
-Milyen jogkörrel rendelkezik minden választópolgár?;törvényhozás,aktív és passzív választójogot;
-Melyik szerv felelős Magyarország törvényhozásáért?;országgyűlés;
+Melyik dokumentum határozza meg Magyarország alapvető politikai és jogi rendjét?;Alkotmány;Az 1989. október 23.-án bekövetkezett rendszerváltás idején nem fogadtak el új alkotmányt, viszont a meglevőt jelentős mértékben módosították. A jelenleg hatályos Alaptörvényt – Alkotmányt – 2011-ben fogadta el az országgyűlés.
+Mi Magyarország államformája?;köztársaság;Az államforma köztársaság.
+Milyen jogkörrel rendelkezik minden választópolgár?;törvényhozás, aktív és passzív választójogot;Megkülönböztetünk ezen kívül aktív és passzív választójogot. A passzív választójog a választásokon való indulás jogát jelenti, míg az aktív választójog szavazati jogot.
+Melyik szerv felelős Magyarország törvényhozásáért?;országgyűlés;Az országgyűlés, mint a népszuverenitás intézménye, csak a demokrácia intézményei (népszavazás) által és a többi hatalmi ág által van korlátozva
 Milyen feladatai vannak az országgyűlésnek?;Megalkotja az alkotmányt,törvényeket hoz,hadiállapotról/rendkívüli állapotról/szükségállapotról dönt,fegyveres erők bevetéséről és jogrend bevezetéséről dönt,emellett tisztségviselőket is választ (miniszterelnök,köztársasági elnök,Alkotmánybíróság tagjai,a Számvevőszék és a Kúria elnökét,a legfőbb ügyészt stb);
-Melyik hatalmi ág tartozik a kormány alá?;végrehajtó hatalom,kormány;
-Ki áll a kormány élén?;miniszterelnök;
-Milyen területekre terjed ki a kormány jogköre?;A kormány jogköre széleskörű:külpolitika,gazdaság,szociális és egészségügyi ellátás biztosítása;
-Kik alkotják a kormányt?;A kormány miniszterekből és politikai államtitkárokból;
-Milyen intézmény biztosítja a miniszterelnök hivatalban maradását?;a konstruktív bizalmatlanság intézményén;
-Melyek tartoznak az országos hatáskörű szervek közé?;országos hatáskörű szervek;
-Mely szervek biztosítják az igazságszolgáltatást?;független bíróságok;
-Mely szerv képviseli az állam büntetőigényét?;ügyészség;
-Melyik szerv dönt az Alkotmánnyal kapcsolatos kérdésekben?;Alkotmánybíróság;
-Melyik intézmény képviseli az állampolgárok jogait?;ombudsmanok;
-Ki képviseli az országot mint államfő?;köztársasági elnök;
-Mely szerv ellenőrzi az állami költségvetést és a pénzügyi fegyelmet?;Állami Számvevőszék;
-Melyik intézmény felel a pénzügyi stabilitásért?;Magyar Nemzeti Bank;
-Milyen rendszer biztosítja a helyi közigazgatást?;önkormányzati rendszer;
+Melyik hatalmi ág tartozik a kormány alá?;végrehajtó hatalom,kormány;Magyarországon a végrehajtó hatalom csúcsán a kormány helyezkedik el.
+Ki áll a kormány élén?;miniszterelnök;A kormányfő a miniszterelnök.
+Milyen területekre terjed ki a kormány jogköre?;A kormány jogköre széleskörű: külpolitika,gazdaság,szociális és egészségügyi ellátás biztosítása;
+Kik alkotják a kormányt?;A kormány miniszterek és politikai államtitkárok;A kormány miniszterekből és politikai államtitkárokból (a miniszterek helyettesei), valamint közigazgatási államtitkárokból áll (minisztériumi apparátust vezetik).
+Milyen intézmény biztosítja a miniszterelnök hivatalban maradását?;a konstruktív bizalmatlanság intézményén;A parlament nem buktathat meg egy minisztert, csak a kormánnyal együtt. A kormány eltávolítása a konstruktív bizalmatlanság intézményén keresztül lehetséges.
+Melyek tartoznak az országos hatáskörű szervek közé?;NAV, KSH, Oktatási Hivatal, rendőrség;A végrehajtáshoz tartoznak egyes országos hatáskörű szervek (pl. NAV, KSH, Oktatási Hivatal, rendőrség stb.).
+Mely szervek biztosítják az igazságszolgáltatást?;független bíróságok; Igazságszolgáltatás: a független bíróságok látják el ezt a feladatot. Az ügyészség feladata a bűnüldözés, a nyomozás felügyelete, a vádemelés, a vád képviselete stb. 
+Melyik szerv dönt az Alkotmánnyal kapcsolatos kérdésekben?;Alkotmánybíróság;Az Alkotmánybíróság feladata a törvénykezés alkotmányosságának felülvizsgálata, a nemzetközi és belső jog harmóniájának felülvizsgálata, az alkotmányjogi panaszok kivizsgálása stb. Döntéseivel szemben nem lehet fellebbezni, széles jogkörrel rendelkezik. 15 tagját a parlament választja 2/3os többséggel 12 évre. Alkotmánybírának büntetlen előéletűnek, 45-70 év közötti, jogvégzett, elismert szaktekintélyű személy választható.
+Melyik intézmény képviseli az állampolgárok jogait?;ombudsmanok;Az ombudsmanok (országgyűlési biztosok) feladata az alkotmányos jogokkal kapcsolatos közhivatali visszásságok kivizsgálása és intézkedés kezdeményezése (10 éves szakmai gyakorlattal rendelkező jogászt választ 2/3-os többséggel). 
+Ki képviseli az országot mint államfő?;köztársasági elnök;A köztársasági elnök a legfőbb közjogi méltóság, ő a magyar haderők főparancsnoka is. Az országgyűlés 5 évre választja, egyszer újraválasztható. Bármely 35. évet betöltött választójoggal rendelkező magyar állampolgár lehet. Reprezentatív, diplomáciai feladatai vannak, vétójoggal rendelkezik a törvényekkel kapcsolatban (egyszer visszaküldheti a parlamentnek, vagy az Alkotmánybíróságnak). Ő ad megbízást a kormányfőnek a kormányalakításra, kinevezi a minisztereket, honosíthat kegyelmet gyakorolhat. Diplomáciai, kinevezési és kegyelemgyakorlási jogkörével csak akkor élhet, ha a megfelelő miniszter ellenjegyzi. A köztársasági elnök jogköre korlátozott, rendkívüli helyzetben bővülhet. 
+Mely szerv ellenőrzi az állami költségvetést és a pénzügyi fegyelmet?;Állami Számvevőszék;Az Állami Számvevőszék feladata minden olyan intézmény pénzügyi felülvizsgálata, ahová költségvetési pénz kerülhet. Az országgyűlésnek van alárendelve. 
+Melyik intézmény felel a pénzügyi stabilitásért?;Magyar Nemzeti Bank;A Magyar Nemzeti Bank az ország hivatalos jegybankja, kibocsájtja a hivatalos fizetőeszközt, meghatározza a monetáris politika irányvonalát. 
+Milyen rendszer biztosítja a helyi közigazgatást?;önkormányzati rendszer;A magyar önkormányzati rendszer kétszintű: A települési önkormányzatok felett, a megyei és a fővárosi önkormányzatok állnak.
 Milyen testület működik az önkormányzatok élén?;képviselő testület;
 Ki vezeti az önkormányzatokat?;polgármester;
 Milyen időközönként választják az önkormányzati vezetőket?;5 évente;
